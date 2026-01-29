@@ -1,4 +1,6 @@
-baseurl = "https://site.brohde.me"
+baseurl = "https://brohde.me/"
+relativeURLs = false
+canonifyURLs = true
 DefaultContentLanguage = "en"
 title = "Bradin Rohde"
 # Using theme as git submodule
